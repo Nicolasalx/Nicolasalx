@@ -13,7 +13,7 @@
 
   I have a strong interest in applications and solutions that enhance financial management, including accounting software, financial data analysis, and innovative fintech.
 - ### Portfolio
-  ABC.com - Check out my projects and achievements
+SOON
 
 <h1 align="center">
   💻 Programming Languages
