@@ -13,7 +13,7 @@
 
   I have a strong interest in applications and solutions that enhance financial management, including accounting software, financial data analysis, and innovative fintech.
 - ### Portfolio
-  Soon ...
+  [nicolas-alexandre.com](https://www.nicolas-alexandre.com/)
 
 <h1 align="center">
   💻 Programming Languages
